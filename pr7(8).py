@@ -1,2 +1,2 @@
 def main(x):
-    A =
+    A = x&0b
